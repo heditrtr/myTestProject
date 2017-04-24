@@ -5,3 +5,6 @@ let a = () => {
 function test () {
   let a = new Date();
 }
+function myFeature() {
+  return 'myFeature';
+}
